@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TARS</string>
+
+    <string name="talk">Talk Command</string>
+    <string name="action_settings">Settings</string>
+    <string name="speech_not_supported">Speech Not Supported</string>
+    <string name="speech_prompt">Talk Command</string>
+</resources>
